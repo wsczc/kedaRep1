@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4ea1453-9d62-4635-b8fd-dc964f2256d0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/ZhongRuanTravel/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-700003679">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="34" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="6" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="133" />
+          <entry key="java" value="179" />
+          <entry key="properties" value="3" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="133" />
+          <entry key="JAVA" value="179" />
+          <entry key="Properties" value="3" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="13" />
+          <entry key="html" value="5946" />
+          <entry key="java" value="6257" />
+          <entry key="properties" value="25" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="53" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="5946" />
+          <entry key="JAVA" value="6255" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Properties" value="25" />
+          <entry key="SQL" value="2" />
+          <entry key="XML" value="53" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/UserServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1892">
+              <caret line="119" column="58" selection-start-line="119" selection-start-column="58" selection-end-line="119" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/RouteServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="574">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/route_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2068">
+              <caret line="193" column="79" selection-start-line="193" selection-start-column="44" selection-end-line="193" selection-end-column="79" />
+              <folding>
+                <element signature="e#312#383#0" />
+                <element signature="e#454#1302#0" />
+                <element signature="e#1348#1680#0" />
+                <element signature="e#1706#2062#0" />
+                <element signature="e#2096#2512#0" />
+                <element signature="e#2546#3007#0" />
+                <element signature="e#3041#3453#0" />
+                <element signature="e#3487#3920#0" />
+                <element signature="n#style#0;n#table#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#tr#7;n#table#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#span#0;n#td#1;n#tr#8;n#table#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>route</find>
+      <find>Ul</find>
+      <find>id</find>
+      <find>ul</find>
+      <find>搜索</find>
+      <find>jq</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/resources/jedis.properties" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/utils/JdbcUtils.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/pojo/Category.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/filters/CharchaterFilter.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/utils/JDBCUtils.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/pom.xml" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/checkRepeatUserNameServlet.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/utils/MailUtils.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/register_ok.html" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/pojo/ResultInfo.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/RegisterUserServlet.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/utils/Md5Util.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/pojo/User.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/loginServlet.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/showLUserServlet.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/quitServlet.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/showRouteServlet.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/service/UserService.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/checkRepeatUname.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/pojo/PageBean.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/pageServlet.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/showLoginServlet.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/BaseServlet.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/getRouteByCidServlet.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/showCategoryServlet.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/login.html" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/header.html" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/service/Impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/UserServlet.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/dao/impl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/activeUserServlet.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/pojo/Route.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/service/IRouteService.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/dao/IRouteDao.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/service/Impl/IRouteServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/dao/impl/IRouteDaoImpl.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/RouteServlet.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/test/java/CTest.java" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/aa.html" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/route_list.html" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/register.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\develop\Maven\repository" />
+        <option name="mavenHome" value="D:/develop/Maven/maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\develop\Maven\maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ZhongRuanTravel" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ZhongRuanTravel" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal -Dfile.encoding=GB2312" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="160" />
+    <option name="y" value="40" />
+    <option name="width" value="1635" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ZhongRuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZhongRuanTravel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZhongRuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZhongRuanTravel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZhongRuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZhongRuanTravel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZhongRuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZhongRuanTravel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZhongRuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZhongRuanTravel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="icis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZhongRuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZhongRuanTravel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="icis" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZhongRuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZhongRuanTravel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="icis" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZhongRuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZhongRuanTravel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605874254502" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpase\ZhongRuan\ZhongRuanTravel\src\main\webapp" />
+      <recent name="D:\WorkSpase\ZhongRuan\ZhongRuanTravel\src\main\java\com\icis" />
+      <recent name="D:\WorkSpase\ZhongRuan\ZhongRuanTravel\src\main\java\com\icis\filters" />
+      <recent name="D:\WorkSpase\ZhongRuan\ZhongRuanTravel\src\main\java\com\icis\pojo" />
+      <recent name="D:\WorkSpase\ZhongRuan\ZhongRuanTravel\src\main\java\com\icis\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.icis.pojo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkSpase\ZhongRuan\ZhongRuanTravel\src\main\java\com\icis\controller" />
+      <recent name="D:\WorkSpase\ZhongRuan\ZhongRuanTravel\src\main\java\com\icis" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.travel-tomcat7">
+    <configuration name="CTest.rr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZhongRuanTravel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CTest" />
+      <option name="METHOD_NAME" value="rr" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CTest.tt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZhongRuanTravel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CTest" />
+      <option name="METHOD_NAME" value="tt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="travel-tomcat7" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/ZhongRuanTravel" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.travel-tomcat7" />
+      <item itemvalue="JUnit.CTest.tt" />
+      <item itemvalue="JUnit.CTest.rr" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CTest.rr" />
+        <item itemvalue="JUnit.CTest.tt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4ea1453-9d62-4635-b8fd-dc964f2256d0" name="Default Changelist" comment="" />
+      <created>1603673381615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603673381615</updated>
+      <workItem from="1603673384906" duration="1479000" />
+      <workItem from="1603674890156" duration="70000" />
+      <workItem from="1603674984953" duration="6851000" />
+      <workItem from="1603690668644" duration="17277000" />
+      <workItem from="1603709682441" duration="7541000" />
+      <workItem from="1603720130309" duration="5784000" />
+      <workItem from="1603758740385" duration="9075000" />
+      <workItem from="1603777378542" duration="13570000" />
+      <workItem from="1603795144618" duration="7505000" />
+      <workItem from="1603807677886" duration="3211000" />
+      <workItem from="1603845210885" duration="10113000" />
+      <workItem from="1603862858042" duration="797000" />
+      <workItem from="1603863700215" duration="3807000" />
+      <workItem from="1603881114859" duration="8587000" />
+      <workItem from="1603891896614" duration="5000" />
+      <workItem from="1603931558389" duration="8805000" />
+      <workItem from="1603949796594" duration="1830000" />
+      <workItem from="1603951641586" duration="20479000" />
+      <workItem from="1604018050187" duration="5430000" />
+      <workItem from="1604035828442" duration="10019000" />
+      <workItem from="1604049237531" duration="877000" />
+      <workItem from="1604054121460" duration="8139000" />
+      <workItem from="1604106836010" duration="3594000" />
+      <workItem from="1604122230691" duration="152000" />
+      <workItem from="1604122414580" duration="682000" />
+      <workItem from="1604123579298" duration="10398000" />
+      <workItem from="1604277132236" duration="1048000" />
+      <workItem from="1604301292165" duration="11317000" />
+      <workItem from="1605593025559" duration="57000" />
+      <workItem from="1605873842908" duration="434000" />
+      <workItem from="1605874293302" duration="11000" />
+      <workItem from="1605921721051" duration="662000" />
+      <workItem from="1606704318070" duration="1414000" />
+      <workItem from="1606871599108" duration="86000" />
+      <workItem from="1607670888484" duration="164000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CTest_tt - 2020.10.30 at 20h 00m 32s.xml">
+      <configuration name="CTest.tt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CTest_tt - 2020.10.30 at 20h 02m 09s.xml">
+      <configuration name="CTest.tt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CTest_tt - 2020.10.31 at 14h 11m 01s.xml">
+      <configuration name="CTest.tt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CTest_tt - 2020.10.31 at 14h 21m 23s.xml">
+      <configuration name="CTest.tt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CTest_tt - 2020.10.31 at 14h 27m 15s.xml">
+      <configuration name="CTest.tt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CTest_rr - 2020.10.31 at 16h 14m 10s.xml">
+      <configuration name="CTest.rr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CTest_rr - 2020.10.31 at 16h 15m 02s.xml">
+      <configuration name="CTest.rr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CTest_rr - 2020.10.31 at 16h 15m 31s.xml">
+      <configuration name="CTest.rr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CTest_rr - 2020.10.31 at 16h 16m 43s.xml">
+      <configuration name="CTest.rr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CTest_rr - 2020.10.31 at 16h 17m 15s.xml">
+      <configuration name="CTest.rr" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="181270000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="128" y="32" width="1308" height="776" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4906542" visible="true" weight="0.1544" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.50934577" side_tool="true" weight="0.1553398" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35093167" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3287037" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32767925" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3293687" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/utils/JedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/resources/druid.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/utils/JDBCUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/utils/UuidUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/utils/MailUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/footer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/utils/Md5Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/pojo/ResultInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/filters/CharchaterFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/test/java/Test.java" />
+    <entry file="file://$USER_HOME$/Desktop/第三天/代码/ZhongRuanTravel/src/main/java/com/icis/dao/impl/IRouteDaoImpl.java" />
+    <entry file="file://$USER_HOME$/Desktop/第三天/代码/ZhongRuanTravel/src/main/java/com/icis/service/impl/IRouteServieImpl.java" />
+    <entry file="file://$USER_HOME$/Desktop/第三天/代码/ZhongRuanTravel/src/main/java/com/icis/controller/BaseServlet.java" />
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/getRouteByCidServlet.java" />
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/RegisterUserServlet.java" />
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/register_ok.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/checkRepeatUname.java" />
+    <entry file="file://$USER_HOME$/Desktop/第三天/代码/ZhongRuanTravel/src/main/java/com/icis/controller/RouteSevlet.java" />
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/loginServlet.java" />
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/quitLoginServlet.java" />
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/showCategoryServlet.java" />
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/showLoginServlet.java" />
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/pageServlet.java" />
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/service/Impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="45" column="4" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="41" column="57" lean-forward="true" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/pojo/PageBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/myfavorite.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/pojo/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/pojo/Route.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3100">
+          <caret line="185" column="18" selection-start-line="185" selection-start-column="18" selection-end-line="185" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/pojo/RouteImg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/route_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-891">
+          <caret line="119" column="47" selection-start-line="119" selection-start-column="47" selection-end-line="119" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/aa.html" />
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-275">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="426" column="16" selection-start-line="426" selection-start-column="16" selection-end-line="426" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/service/IRouteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/service/Impl/IRouteServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="79" column="47" selection-start-line="79" selection-start-column="47" selection-end-line="79" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/dao/IRouteDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/dao/impl/IRouteDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/test/java/CTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="64" column="31" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2068">
+          <caret line="193" column="79" selection-start-line="193" selection-start-column="44" selection-end-line="193" selection-end-column="79" />
+          <folding>
+            <element signature="e#312#383#0" />
+            <element signature="e#454#1302#0" />
+            <element signature="e#1348#1680#0" />
+            <element signature="e#1706#2062#0" />
+            <element signature="e#2096#2512#0" />
+            <element signature="e#2546#3007#0" />
+            <element signature="e#3041#3453#0" />
+            <element signature="e#3487#3920#0" />
+            <element signature="n#style#0;n#table#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#tr#7;n#table#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#span#0;n#td#1;n#tr#8;n#table#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/webapp/route_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/CheckCodeServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="45" column="59" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/BaseServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="21" column="53" lean-forward="true" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/activeUserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/RouteServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhongRuanTravel/src/main/java/com/icis/controller/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1892">
+          <caret line="119" column="58" selection-start-line="119" selection-start-column="58" selection-end-line="119" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ZhongRuanTravel:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|ZhongRuanTravel</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:druid:1.0.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
